@@ -25,6 +25,8 @@ Cada regla cita su norma o estándar, y cada skill termina con sus fuentes y la 
 
 Las skills quedan con el prefijo del plugin: `web-guardrails:web-security`, `web-guardrails:web-compliance-legal` y el comando `/web-guardrails:model-router`.
 
+Según `claude plugin details`, el plugin añade unos 240 tokens fijos a cada sesión, y cada skill carga entre 1.200 y 3.500 tokens solo cuando se usa.
+
 **Solo las skills que quieras.** Copia su carpeta desde [`plugins/web-guardrails/skills/`](plugins/web-guardrails/skills/) a `~/.claude/skills/` (para todos tus proyectos) o a `.claude/skills/` (para uno). Así instalado, el router se llama `/model-router`.
 
 ## Uso
