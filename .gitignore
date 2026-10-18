@@ -1,0 +1,7 @@
+# Eval results (claude plugin eval writes them under each plugin's evals/results/)
+plugins/*/evals/results/
+
+# Dependencies and OS files
+node_modules/
+.DS_Store
+Thumbs.db

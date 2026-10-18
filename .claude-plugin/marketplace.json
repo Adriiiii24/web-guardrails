@@ -1,0 +1,15 @@
+{
+  "name": "adriiiii24",
+  "description": "Plugins de Claude Code de Adrián Martínez Panés.",
+  "owner": {
+    "name": "Adrián Martínez Panés",
+    "url": "https://github.com/Adriiiii24"
+  },
+  "plugins": [
+    {
+      "name": "web-guardrails",
+      "source": "./plugins/web-guardrails",
+      "description": "Seguridad web, cumplimiento legal en España y la UE y elección del modelo más económico para cada tarea."
+    }
+  ]
+}

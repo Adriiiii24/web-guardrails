@@ -1,0 +1,13 @@
+{
+  "name": "web-guardrails",
+  "description": "Barandillas para construir webs con Claude Code: seguridad (OWASP Top 10:2025, NIST SP 800-63B-4), cumplimiento legal en España y la UE (RGPD, LSSI-CE, consumo, accesibilidad, Ley de IA) y elección del modelo más económico para cada tarea.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adrián Martínez Panés",
+    "url": "https://github.com/Adriiiii24"
+  },
+  "homepage": "https://github.com/Adriiiii24/web-guardrails",
+  "repository": "https://github.com/Adriiiii24/web-guardrails",
+  "license": "MIT",
+  "keywords": ["security", "owasp", "rgpd", "gdpr", "lssi", "wcag", "ai-act", "model-routing"]
+}
